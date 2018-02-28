@@ -1,0 +1,15 @@
+{
+  "name": "sumtwo",
+  "version": "1.0.0",
+  "description": "add two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Donald Raikes",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
